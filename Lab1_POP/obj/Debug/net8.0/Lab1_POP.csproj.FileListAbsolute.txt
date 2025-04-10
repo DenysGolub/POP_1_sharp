@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Університет\3_курс\2_семестр\ПОП_Онищенко\Lab1\sharp\Lab1_POP\Lab1_POP\bin\Debug\net8.0\Lab1_POP.exe
+C:\Users\User\Desktop\Університет\3_курс\2_семестр\ПОП_Онищенко\Lab1\sharp\Lab1_POP\Lab1_POP\bin\Debug\net8.0\Lab1_POP.deps.json
+C:\Users\User\Desktop\Університет\3_курс\2_семестр\ПОП_Онищенко\Lab1\sharp\Lab1_POP\Lab1_POP\bin\Debug\net8.0\Lab1_POP.runtimeconfig.json
+C:\Users\User\Desktop\Університет\3_курс\2_семестр\ПОП_Онищенко\Lab1\sharp\Lab1_POP\Lab1_POP\bin\Debug\net8.0\Lab1_POP.dll
+C:\Users\User\Desktop\Університет\3_курс\2_семестр\ПОП_Онищенко\Lab1\sharp\Lab1_POP\Lab1_POP\bin\Debug\net8.0\Lab1_POP.pdb
+C:\Users\User\Desktop\Університет\3_курс\2_семестр\ПОП_Онищенко\Lab1\sharp\Lab1_POP\Lab1_POP\obj\Debug\net8.0\Lab1_POP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Університет\3_курс\2_семестр\ПОП_Онищенко\Lab1\sharp\Lab1_POP\Lab1_POP\obj\Debug\net8.0\Lab1_POP.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Університет\3_курс\2_семестр\ПОП_Онищенко\Lab1\sharp\Lab1_POP\Lab1_POP\obj\Debug\net8.0\Lab1_POP.AssemblyInfo.cs
+C:\Users\User\Desktop\Університет\3_курс\2_семестр\ПОП_Онищенко\Lab1\sharp\Lab1_POP\Lab1_POP\obj\Debug\net8.0\Lab1_POP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Університет\3_курс\2_семестр\ПОП_Онищенко\Lab1\sharp\Lab1_POP\Lab1_POP\obj\Debug\net8.0\Lab1_POP.dll
+C:\Users\User\Desktop\Університет\3_курс\2_семестр\ПОП_Онищенко\Lab1\sharp\Lab1_POP\Lab1_POP\obj\Debug\net8.0\refint\Lab1_POP.dll
+C:\Users\User\Desktop\Університет\3_курс\2_семестр\ПОП_Онищенко\Lab1\sharp\Lab1_POP\Lab1_POP\obj\Debug\net8.0\Lab1_POP.pdb
+C:\Users\User\Desktop\Університет\3_курс\2_семестр\ПОП_Онищенко\Lab1\sharp\Lab1_POP\Lab1_POP\obj\Debug\net8.0\Lab1_POP.genruntimeconfig.cache
+C:\Users\User\Desktop\Університет\3_курс\2_семестр\ПОП_Онищенко\Lab1\sharp\Lab1_POP\Lab1_POP\obj\Debug\net8.0\ref\Lab1_POP.dll

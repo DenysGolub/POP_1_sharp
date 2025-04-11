@@ -21,9 +21,9 @@ namespace Lab1_POP
             }
         }
 
-        private void MinusValueFromArray(int value)
+        private void MinusValueFromArray(int j, int value)
         {
-            for (int i = 0; i < threads.Length; i++)
+            for (int i = j; i < threads.Length; i++)
             {
                 threads[i].Time -= value;
             }
@@ -38,7 +38,7 @@ namespace Lab1_POP
                 int currentTime = threads[i].Time;
                 Thread.Sleep(currentTime);
                 threads[threads[i].Id].CanStop = true;
-                MinusValueFromArray(currentTime);
+                MinusValueFromArray(i, currentTime);
             }
         }
         public bool isStop(int id)

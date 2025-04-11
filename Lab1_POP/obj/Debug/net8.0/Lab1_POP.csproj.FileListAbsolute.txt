@@ -12,3 +12,4 @@ C:\Users\User\Desktop\Університет\3_курс\2_семестр\ПОП_
 C:\Users\User\Desktop\Університет\3_курс\2_семестр\ПОП_Онищенко\Lab1\sharp\Lab1_POP\Lab1_POP\obj\Debug\net8.0\Lab1_POP.pdb
 C:\Users\User\Desktop\Університет\3_курс\2_семестр\ПОП_Онищенко\Lab1\sharp\Lab1_POP\Lab1_POP\obj\Debug\net8.0\Lab1_POP.genruntimeconfig.cache
 C:\Users\User\Desktop\Університет\3_курс\2_семестр\ПОП_Онищенко\Lab1\sharp\Lab1_POP\Lab1_POP\obj\Debug\net8.0\ref\Lab1_POP.dll
+C:\Users\User\Desktop\Університет\3_курс\2_семестр\ПОП_Онищенко\Lab1\sharp\Lab1_POP\Lab1_POP\obj\Debug\net8.0\Lab1_POP.sourcelink.json

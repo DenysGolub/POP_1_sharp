@@ -6,7 +6,7 @@ namespace Lab1_POP
     {
         static void Main(string[] args)
         {
-            int threadsNumber = 100;
+            int threadsNumber = 15;
 
             Random rnd = new Random();
             Breaker breaker = new Breaker(threadsNumber);

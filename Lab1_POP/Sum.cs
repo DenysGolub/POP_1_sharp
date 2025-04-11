@@ -21,9 +21,6 @@ namespace Lab1_POP
 
         public void SequenceSum()
         {
-            bool _break = false;
-
-
             long sum = 0;
             int iter = 0;
 
@@ -31,9 +28,8 @@ namespace Lab1_POP
             {
                 sum += step;
                 iter++;
-                _break = _breaker.isStop(id);
             }
-            while (!_break);
+            while (!_breaker.isStop(id));
 
             Console.WriteLine($"Thread №{id}; Sum: {sum}; Iterations: {iter}");
         }
